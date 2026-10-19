@@ -1,0 +1,16 @@
+spacy
+nltk
+scikit-learn
+gensim
+torch
+numpy
+transformers
+sentencepiece
+accelerate
+sentence
+sentence-transformers
+evaluate
+datasets
+fastapi
+uvicorn
+pydantic

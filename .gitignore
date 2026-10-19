@@ -1,0 +1,26 @@
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Training checkpoints & fine-tuned models
+my_finetuned_sentiment_model/
+results/
+checkpoint-*/
+*.pt
+*.bin
+*.safetensors
+
+# Environment variables & secrets
+.env
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
